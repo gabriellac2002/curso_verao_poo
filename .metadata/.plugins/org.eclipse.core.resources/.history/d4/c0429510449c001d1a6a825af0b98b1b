@@ -14,7 +14,7 @@ public class Sorteio {
 		
 		if(num_user == num)
 			System.out.println("Acertou o numero");
-		else if(num_user > num)
+		if(num_user > num)
 			System.out.println("O chute inicial foi maior");
 		else
 			System.out.println("O chute inicial foi menor");
