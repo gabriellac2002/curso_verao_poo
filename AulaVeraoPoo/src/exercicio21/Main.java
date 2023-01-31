@@ -11,11 +11,11 @@ public class Main {
 		
 		Aluno aluno = new Aluno();
 		aluno.setNome("Gabi");
-		aluno.setNota1(1);
-		aluno.setNota2(2);
+		aluno.setNota1(10);
+		aluno.setNota2(10);
 		aluno.setTrabalho(3);
 		
-		System.out.println("Voce precisa de " + aluno.notaFinal() + "para passar");
+		System.out.println("Voce precisa de " + aluno.notaFinal() + " para passar");
 
 	}
 
