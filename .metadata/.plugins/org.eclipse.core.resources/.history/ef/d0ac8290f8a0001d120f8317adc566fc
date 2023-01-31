@@ -1,0 +1,14 @@
+package Exercicio20;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Pessoa p1 = new Pessoa("Ze", 35);
+		Pessoa p2 = new Pessoa("Ana", 42, "F");
+		Pessoa p3 = new Pessoa();
+		
+		
+	}
+
+}
