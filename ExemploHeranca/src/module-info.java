@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author cdcru
- *
- */
-module ExemploHeranca {
-}
