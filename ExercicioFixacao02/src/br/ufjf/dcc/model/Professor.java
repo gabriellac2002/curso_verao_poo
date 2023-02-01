@@ -1,10 +1,13 @@
 package br.ufjf.dcc.model;
 
-public class Professor {
+import java.util.ArrayList;
+
+public class Professor extends Pessoa{
 	private String codigo;
 	private String formacao;
 	private double horaAula;
 	private int quantidadeAula;
+	private ArrayList<Diciplina> diciplinas;
 	
 	public double calcularPagamento() {
 		return getHoraAula() * getQuantidadeAula();
@@ -33,5 +36,13 @@ public class Professor {
 	}
 	public void setQuantidadeAula(int quantidadeAula) {
 		this.quantidadeAula = quantidadeAula;
+	}
+
+	public ArrayList<Diciplina> getDiciplinas() {
+		return diciplinas;
+	}
+
+	public void setDiciplinas(ArrayList<Diciplina> diciplinas) {
+		this.diciplinas = diciplinas;
 	}
 }

@@ -1,8 +1,12 @@
 package br.ufjf.dcc.model;
 
+import java.util.ArrayList;
+
 public class Diciplina {
 	private String nome;
-	private float cargaHoraria;
+	private int cargaHoraria;
+	private ArrayList<Aluno> alunos;
+	private Professor professor;
 	
 	public String getNome() {
 		return nome;
@@ -10,10 +14,22 @@ public class Diciplina {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-	public float getCargaHoraria() {
+	public int getCargaHoraria() {
 		return cargaHoraria;
 	}
-	public void setCargaHoraria(float cargaHoraria) {
+	public void setCargaHoraria(int cargaHoraria) {
 		this.cargaHoraria = cargaHoraria;
+	}
+	public ArrayList<Aluno> getAlunos() {
+		return alunos;
+	}
+	public void setAlunos(ArrayList<Aluno> alunos) {
+		this.alunos = alunos;
+	}
+	public Professor getProfessor() {
+		return professor;
+	}
+	public void setProfessor(Professor professor) {
+		this.professor = professor;
 	}
 }
