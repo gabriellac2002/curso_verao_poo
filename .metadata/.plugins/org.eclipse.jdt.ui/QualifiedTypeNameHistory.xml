@@ -5,6 +5,22 @@
     <fullyQualifiedTypeName name="ufjf.dcc.poo.exemplos.Pessoa"/>
     <fullyQualifiedTypeName name="ufjf.dcc.poo.exemplos.PessoaNew"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Aluno"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Professor"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Funcionario"/>
+    <fullyQualifiedTypeName name="model.Veiculo"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="model.Automovel"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.model.Aluno"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.model.Professor"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.model.Diciplina"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Veiculo"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Cliente"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Atendimento"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Pessoa"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.ItenPedido"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
