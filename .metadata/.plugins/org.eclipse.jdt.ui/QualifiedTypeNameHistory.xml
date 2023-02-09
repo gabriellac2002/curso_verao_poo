@@ -17,10 +17,11 @@
     <fullyQualifiedTypeName name="br.ufjf.dcc.model.Professor"/>
     <fullyQualifiedTypeName name="br.ufjf.dcc.model.Diciplina"/>
     <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Veiculo"/>
-    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Cliente"/>
     <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Atendimento"/>
     <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Pessoa"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.ItenPedido"/>
+    <fullyQualifiedTypeName name="ufjf.dcc.poo.exemplos.SerVivo"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.ufjf.dcc.poo.model.Cliente"/>
 </qualifiedTypeNameHistroy>
